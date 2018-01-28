@@ -1,6 +1,12 @@
 [package]
-name = "supertroupers-iso"
+name = "supertroupers_iso"
 version = "0.1.0"
 authors = ["minauteur <Thompennington@gmail.com>"]
 
 [dependencies]
+mustache = "0.8.2"
+serde = "1.0.27"
+iron = "0.6.0"
+router = "0.6.0"
+serde_derive = "1.0.27"
+serde_json = "1.0.9"
